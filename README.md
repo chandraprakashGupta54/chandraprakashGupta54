@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">🚀 Chandraprakash Gupta</h1>
+<h1 align="center">I'm Chandraprakash Gupta</h1>
 <h3 align="center">Web Developer | BSc-IT Student |AI/ML Enthusiast</h3>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 
 ## 👨‍💻 About Me  
-🎓 TY **BSc-IT student** at D.G. Ruparel College, Mahim  
-🔭 Building **HiddenHop** – discover hidden places near railway stations 🚉  
-♻️ Hackathon Project: **EcoBridge** – connects waste givers with NGOs & recyclers  
-🎯 Goal: Secure an **onsite Web Development Internship**  
+ TY **BSc-IT student** at D.G. Ruparel College, Mahim  
+ Building **HiddenHop** – discover hidden places near railway stations 🚉  
+ Hackathon Project: **EcoBridge** – connects waste givers with NGOs & recyclers  
+ Goal: Secure an **onsite Web Development Internship**  
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 - 🌍 **HiddenHop** – Explore hidden gems near railway stations  
 - ♻️ **EcoBridge** – Real-time waste management platform  
 - 🍔 **FoodLove** – Food discovery & interaction project  
